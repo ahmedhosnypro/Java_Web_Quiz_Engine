@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine_(Java).iml" filepath="$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine_(Java).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine (Java)/task/Web_Quiz_Engine_(Java).Web_Quiz_Engine__Java_-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine_(Java).util.test.iml" />
+    </modules>
+  </component>
+</project>
